@@ -65,7 +65,7 @@ function App() {
         GitHub
         </a>
         <a 
-        href="www.linkedin.com/in/samuel-vega-942854220" 
+        href="https://www.linkedin.com/in/samuel-vega-942854220" 
         target="_blank" 
         rel="noopener noreferrer"
         className="text-slate-400 hover:text-amber-400 transition-colors duration-300 font-medium"
