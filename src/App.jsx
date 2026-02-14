@@ -72,13 +72,13 @@ function App() {
         LinkedIn
         </a>
         <a 
-        href="mailto:samuel_kripton22@gmail.com?subject=Contacto desde Portfolio" 
+        href="mailto:contacto@samuel-v.dev?subject=Contacto desde Portfolio" 
         className="bg-amber-400 text-slate-900 px-4 py-1.5 rounded-lg font-bold hover:bg-white transition-all duration-300"
         >
         Contactame
         </a>
         <span className="text-xs text-slate-500 font-mono select-all">
-        samuel_kripton22@gmail.com - +543873550129
+        contacto@samuel-v.dev
         </span>
         </div>
         </footer>
